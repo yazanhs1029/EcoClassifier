@@ -55,7 +55,7 @@ Garbage_Classification\Scripts\activate
 uvicorn predict:app --reload
 ```
 ### ✅ 3. Start the Front-End (React)
-Navigate to Page.tsx and run:
+Navigate to **Object_Classification_Frontend/object_classification_frontend/Page.tsx** and run:
 ```bash
 npm run dev
 ```
