@@ -13,8 +13,7 @@ https://eco-classifier.vercel.app/
 - **FastAPI** (API framework)
 - **TensorFlow / Keras** (Deep learning model)
 - **OpenCV (cv2)** (Image processing)
-- **NumPy** (Array & tensor handling)
-- **scikit-learn** (Label encoding)
+
 
 ### Front-End
 - **React**
